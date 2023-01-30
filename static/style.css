@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+html{
+    margin: 25px;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.archived,
+.todos
+{
+    /* margin: 10px; */
+    padding: 10px;
+
+}
